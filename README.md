@@ -1,4 +1,4 @@
-# MashMash
+# Mash
 
 Simple, easy to learn library and map-maker tool for basic game development.
 
